@@ -964,6 +964,11 @@ The About, Contact and Feedback pages are nested under the Info page.
 \end_layout
 
 \begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Parameters"
+\end_inset
+
 Parameters
 \end_layout
 
@@ -1892,7 +1897,12 @@ Param Example
 \end_layout
 
 \begin_layout Standard
-Above, we saw how to create a 
+In 
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Parameters"
+\end_inset
+, we saw how to create a 
 \family typewriter
 Loc[ParamInfo]
 \family default
