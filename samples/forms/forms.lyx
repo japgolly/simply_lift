@@ -1147,7 +1147,7 @@ Processing this URL is easy:
 \begin_inset CommandInset include
 LatexCommand lstinputlisting
 filename "src/main/scala/code/snippet/Query.scala"
-lstparams "caption={Query.scala}"
+lstparams "caption={.../snippet/Query.scala}"
 
 \end_inset
 
