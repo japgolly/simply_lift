@@ -380,10 +380,10 @@ name
 \family typewriter
 age
 \family default
- variables and when that method is lifted to a function, it still closes
- over the variables...
- that means that when the function is applied, it refers to the same instances
- of the 
+ variables and when that method is lifted to a function, it retains
+ its closure over the variables...
+ that means that when the user hits submit and the function is invoked,
+ it will still refer to the same instances of the 
 \family typewriter
 name
 \family default
@@ -391,7 +391,7 @@ name
 \family typewriter
 age
 \family default
- variables as the other functions in this method.
+ variables as were referenced when the function was created.
  However, if we had 85 copies of the form open in 85 browsers, each would
  be closing over different instances of the 
 \family typewriter
