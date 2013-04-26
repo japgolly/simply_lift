@@ -712,7 +712,7 @@ Loc
 \family typewriter
 WikiPage
 \family default
-: 
+ resulting in 
 \family typewriter
 Loc[WikiPage]
 \family default
