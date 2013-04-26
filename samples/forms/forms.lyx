@@ -525,11 +525,11 @@ name
 \family typewriter
 age
 \family default
- and 
+ and from 
 \family typewriter
-from
+whence
 \family default
- whence the user came), in instance variables.
+ the user came), in instance variables.
 \end_layout
 
 \begin_layout Standard
