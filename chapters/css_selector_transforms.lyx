@@ -428,7 +428,7 @@ Dogscape</a>
 \begin_inset Newline newline
 \end_inset
 
-// <span class"foo">Dogscape</span> -> <span class"foo error">Dogscape</span>
+// <span class="foo">Dogscape</span> -> <span class="foo error">Dogscape</span>
 \end_layout
 
 \begin_layout Itemize
@@ -450,7 +450,7 @@ Dogscape</a>
 \begin_inset Newline newline
 \end_inset
 
-// <span class"error foo">Dogscape</span> -> <span class"foo">Dogscape</span>
+// <span class="error foo">Dogscape</span> -> <span class="foo">Dogscape</span>
 \end_layout
 
 \begin_layout Itemize
